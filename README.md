@@ -13,7 +13,7 @@ I'm a Business Management & Leadership graduate with hands-on experience in web 
 
 ## 🛠️ Technologies
 
-**Python · JavaScript · HTML · CSS · JSON · Git · GitHub**
+**Python · JavaScript · HTML · CSS · JSON · Git**
 
 ## 🚀 Projects
 
