@@ -32,6 +32,7 @@ A collection of small projects built while learning Python.
 ## 🎓 Education
 
 **BA (Hons) Business Management & Leadership (UK) — Grade: 2:1**
+
 **Bachelor's Degree in Economics (Ukraine)**
 
 ## 📫 Connect
