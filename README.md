@@ -2,58 +2,38 @@
 
 **Business Management Graduate | Python | Web Development**
 
-I'm a Business Management & Leadership graduate with a background in Economics and hands-on experience in web development. I've built websites and landing pages for clients using **HTML, CSS and JavaScript**, working with tools such as **Figma, Tilda and WordPress**.
-
-I'm now focusing on **Python and practical software development**, building projects to improve my programming and problem-solving skills.
+I'm a Business Management & Leadership graduate with hands-on experience in web development. I've built websites and landing pages for clients using HTML, CSS and JavaScript, and I'm now focusing on Python and practical software development.
 
 ## 🧑‍💻 Currently Working On
 
-* 🐍 Improving my Python skills through practical projects
-* 🏨 Developing a **Hotel Management System**
-* 🌐 Building my personal portfolio website
-* 🔧 Learning more about APIs, automation and backend development
+* 🐍 Python projects
+* 🏨 Hotel Management System
+* 🌐 Personal portfolio website
+* 🔧 APIs and automation
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 
-**Programming:** Python, JavaScript
-**Web:** HTML, CSS
-**Development:** Git, GitHub, JSON
-**Tools:** Figma, WordPress
+**Python · JavaScript · HTML · CSS · JSON · Git · GitHub**
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🏨 Hotel Management System
 
-A Python application for managing hotel rooms, guests and room operations.
+Python application for managing hotel rooms, guests and room operations.
 
-**Tech:** Python, JSON, file handling, data structures, functions and input validation
+### 🌐 Personal Portfolio
 
-[View Project](#)
-
-### 🌐 Personal Portfolio Website
-
-A personal portfolio website built as a practical web development project.
-
-**Tech:** HTML, CSS, JavaScript, Python / Flask
-
-[View Project](#)
+My personal portfolio website and web development project.
 
 ### 🐍 Python Learning Projects
 
-A collection of small Python projects built while learning programming fundamentals.
-
-**Examples:** calculator, phone book, Telegram bot and other practice projects
-
-[View Project](#)
+A collection of small projects built while learning Python.
 
 ## 🎓 Education
 
 **BA (Hons) Business Management & Leadership (UK) — Grade: 2:1**
+**Bachelor's Degree in Economics (Ukraine)**
 
-**Bachelor's Degree in Economics** (Ukraine)
+## 📫 Connect
 
-## 📫 Connect With Me
-
-* [LinkedIn](#)
-* [Portfolio](#)
-* [Email](#)
+[LinkedIn](#) · [Portfolio](#) · [Email](#)
